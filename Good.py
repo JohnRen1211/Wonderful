@@ -1,0 +1,5 @@
+print("Wonderful code")
+print("Hello World")
+print("Good program") 
+print("Cool Design")
+print("Great Value")
